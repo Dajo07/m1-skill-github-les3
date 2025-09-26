@@ -10,3 +10,5 @@ Eerste opdracht
 spraakgebrek
 
 SD1
+
+The division 1
